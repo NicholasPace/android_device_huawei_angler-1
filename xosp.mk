@@ -18,6 +18,7 @@ DEVICE_PACKAGE_OVERLAYS += device/huawei/angler/overlay-cm
 PRODUCT_NAME := xosp_angler
 PRODUCT_BRAND := google
 PRODUCT_MODEL := Nexus 6P
+RELEASE_TYPE := XOSP_OFFICIAL
 
 TARGET_VENDOR := huawei
 
